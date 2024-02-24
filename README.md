@@ -2,7 +2,7 @@
 
 This repo consists of a source code of a Python script which detects plagiarism in a textual document using **cosine similarity**.
 
-[![Become a patron](pictures/become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
+
 
 ## How is it Done?
 
@@ -18,7 +18,7 @@ This repo contains a basic example on how to do that.
 To get started with the code on this repo, you need to either *clone* or *download* this repo into your machine as shown below;
 
 ```bash
-git clone https://github.com/Kalebu/Plagiarism-checker-Python
+git clone https://github.com/SanjayTummala/plgarismchecker
 ```
 
 ## Dependencies
@@ -44,11 +44,11 @@ $ Plagiarism-checker-Python-> python3 app.py
 
 ## A Python Library?
 
-Would you like to use a Python library instead to help you compare strings and documents without spending time writing the vectorizers by yourself, then take a look at [Pysimilar](https://github.com/Kalebu/pysimilar).
+You have to use own python library or you can use a existing python library from internet.
 
 ## Explore it 
 
-Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at *isaackeinstein@gmail.com*.
+Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at *sanjaytummala18@gmail.com*.
 
 ## Issues
 
@@ -65,4 +65,4 @@ If you find this repo useful, give it a star so that many people can get to know
 
 ## Credits
 
-All the credit goes to [kalebu](https://github.com/kalebu).
+All the credit goes to [Sanjay Kumar](https://github.com/SanjayTummala).
